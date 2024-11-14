@@ -95,7 +95,7 @@ class ThemeManager:
     def upload_file (self):
         response1 = st.radio ('**Do you need to upload a file?**',
                                  ['yes','no', 'use sample data'],
-                                 index = 2)
+                                 index = 1)
         
         #yes to upload file then update the session state
         if response1 == 'yes':
