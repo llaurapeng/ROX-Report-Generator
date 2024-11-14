@@ -1,0 +1,8 @@
+pandas
+plotly
+streamlit
+openpyxl
+Fragments
+Pillow==10.0.0  
+rembg
+onnxruntime
