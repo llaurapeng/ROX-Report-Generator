@@ -11,7 +11,7 @@ https://github.com/user-attachments/assets/fec013bf-8ddb-4a6d-bd6b-a57c9ea7c18d
 
 
 
-I developed this app for Momentum Worldwide to streamline the report creation process for each of their diverse clients. Traditionally, while the reports follow a consistent structure, they need to be recreated for every new company they work with. This app automates that process, helping to reduce the time and effort required to generate customized reports for different clients.
+I developed this app for Momentum Worldwide to streamline the report creation process for each of their diverse clients. Traditionally, while the reports follow a consistent structure, they need to be recreated for every new company they work with and event. This app automates that process, helping to reduce the time and effort required to generate customized reports for different clients and events.
 
 How does it work?
 
